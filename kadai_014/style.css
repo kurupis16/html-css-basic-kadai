@@ -9,10 +9,16 @@ text-align: center;
 h1{
   font-size: 2rem;
   font-family: "Josefin Sans", sans-serif;
+  letter-spacing: 1.2em;
+  text-decoration: underline;
+  text-shadow: 2px 2px 2px gray;
 }
 .text-blue{
   color: skyblue;
 }
 .text-pink{
   color: rgb(255, 192,203);
+}
+.bold{
+  font-weight: bold;
 }
